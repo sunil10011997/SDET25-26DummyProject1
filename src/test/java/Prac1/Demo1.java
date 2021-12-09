@@ -7,6 +7,8 @@ public class Demo1 {
 	@Test
 	public void demo1() {
 		System.out.println("this is my first user");
+		System.out.println("This is my second user");
+		
 	}
 
 }
